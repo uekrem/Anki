@@ -13,7 +13,7 @@ Bu, PHP ve MySQL tabanlı bir ezber yardım sitesidir. Kullanıcılar, e-posta v
 3. **Oyuna Başla:**
    - Oyuna başlamak için "Start Game" tuşuna basın. Oluşturulan kartlarla oyun, kartların arkası oyuncuya dönük bir şekilde başlar. Eğer bir kartın arkası çevrilirse, o kart bilinemez ve yine oyuncunun karşısına çıkarılır.
 
-https://github.com/uekrem/Anki/assets/110349452/23778cac-d757-483a-be31-72a3caa70213
+https://github.com/uekrem/Anki/assets/110349452/842e11cf-f82a-462b-a529-09505225ef84
 
 4. **Kartları İncele ve Yönet:**
    - Oyuncu, kartların arkasına bakabilir veya "Skip" tuşuna basarak bir kartı atlayabilir. Atlanan kartlar oyuncu tarafından bilindiği varsayılıp desteden çıkarılır.
