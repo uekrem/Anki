@@ -2,7 +2,8 @@
 Bu bir PHP ve MySQL tabanlı bir ezber yardım sitesidir. Kullanıcılar, e-posta ve şifreleri ile kayıt olabilir, hafıza kartı desteleri kartları oluşturabilir, hafıza oyunu oynayabilir ve çıkış yapabilirler.
 ### Kullanım:
 1.**Kayıt Ol veya Giriş Yap:**
-Uygulamayı kullanmak için öncelikle bir hesap oluşturun veya mevcut bir hesapla giriş yapın.
+
+-Uygulamayı kullanmak için öncelikle bir hesap oluşturun veya mevcut bir hesapla giriş yapın.
 2. Hafıza Kartı Destesi ve Kartlarınızı Oluşturun ve Yönetin
 Hesabınıza giriş yaptıktan sonra, kendi hafıza kartı destenizi oluşturabilir ve destenize kart ekleyebilirsiniz.
 3. Oyuna Başla
