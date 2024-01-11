@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    border:0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+
+main{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+    width: calc(100vw / 2.5);
+    height: calc(100vh / 2.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(175, 175, 197);
+    border-radius: 10px;
+}
+
+.container > form{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 7%;
+}
+
+.container > h2{
+    display: block;
+    height: 13%;
+    width: 100%;
+    text-align: center;
+}
+
+.container > div{
+    height: 35%;
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    overflow: scroll;
+    flex-wrap: wrap;
+    column-gap: 10px;
+}
+
+input[type="submit"]{
+    width: 20%;
+    height: 25%;
+    border-radius: 5px;
+}
+
+input[type="text"]{
+    width: 50%;
+    height: 10%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.liDiv{
+    display: flex;
+    column-gap: 10px;
+}
+
+.dbList > ul{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    cursor: pointer;
+}
+
+.liBtn{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('delete.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    size: 3px 3px;
+    cursor: pointer;
+}
