@@ -16,11 +16,7 @@ Bu, PHP ve MySQL tabanlı bir ezber yardım sitesidir. Kullanıcılar, e-posta v
    - Oyuna başlamak için "Start Game" tuşuna basın. Oluşturulan kartlarla oyun, kartların arkası oyuncuya dönük bir şekilde başlar. Eğer bir kartın arkası çevrilirse, o kart bilinemez ve yine oyuncunun karşısına çıkarılır.
    - Oyuncu, kartların arkasına bakabilir veya "Skip" tuşuna basarak bir kartı atlayabilir. Atlanan kartlar oyuncu tarafından bilindiği varsayılıp desteden çıkarılır.
 
-![gamestart2](https://github.com/uekrem/Anki/assets/110349452/373ab506-8067-437b-ae6e-f12f776f5a71)
-
-
-
-https://github.com/uekrem/Anki/assets/110349452/842e11cf-f82a-462b-a529-09505225ef84
+![gameStart](https://github.com/uekrem/Anki/assets/110349452/373ab506-8067-437b-ae6e-f12f776f5a71)
 
 4. **Turn Back Özelliği:**
    - Ekstra bir özellik olarak, "Turn Back" tuşuna basılırsa oyuncu kart yönetme arayüzüne gelir. Bu arayüze geldiğinde oyuncunun ilerlemesi sıfırlanmaz. Oyuncu bu ekrandayken kart ekleme yaptığında en son oynanan desteye eklenir, orijinal deste korunmuş olur. Bu arayüzden tekrar "Turn Back" tuşuna basılırsa ilerleme sıfırlanır. Diğer türlü, tüm kartlar bilinene kadar oyun devam eder.
