@@ -13,9 +13,3 @@ Oyuncu, kartların arkasına bakabilir veya "Skip" tuşuna basarak bir kartı at
 Ekstra bir özellik olarak, "Turn Back" tuşuna basılırsa oyuncu kart yönetme arayüzüne gelir. Bu arayüze geldiğinde oyuncunun ilerlemesi sıfırlanmaz. Oyuncu bu ekrandayken kart ekleme yaptığında en son oynanan desteye eklenir, orijinal deste korunmuş olur. Bu arayüzden tekrar "Turn Back" tuşuna basılırsa ilerleme sıfırlanır. Diğer türlü, tüm kartlar bilinene kadar oyun devam eder.
 6. Çıkış Yap
 Kullanıcı siteden istediğinde çıkış yapabilir.
-
-[
-
-https://github.com/uekrem/Anki/assets/110349452/70464f80-7c93-4120-8619-b753159647c1
-
-]
