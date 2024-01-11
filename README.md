@@ -10,7 +10,7 @@ Bu, PHP ve MySQL tabanlı bir ezber yardım sitesidir. Kullanıcılar, e-posta v
 2. **Hafıza Kartı Destesi Kartlarınızı Oluşturun ve Yönetin:**
    - Hesabınıza giriş yaptıktan sonra, kendi hafıza kartı destenizi oluşturabilir ve destenize kart ekleyebilirsiniz.
 
-![cards](https://github.com/uekrem/Anki/assets/110349452/286d0553-2c0b-44d8-9bfb-e86ca590997a)
+![cards](https://github.com/uekrem/Anki/assets/110349452/77ffed6c-bae7-4804-bbce-dd68bcc2046a)
 
 3. **Oyuna Başla:**
    - Oyuna başlamak için "Start Game" tuşuna basın. Oluşturulan kartlarla oyun, kartların arkası oyuncuya dönük bir şekilde başlar. Eğer bir kartın arkası çevrilirse, o kart bilinemez ve yine oyuncunun karşısına çıkarılır.
